@@ -9682,3 +9682,50 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+.blog-entry{
+    background: rgba(255,255,255,0.03);
+    border: 1px solid rgba(255,255,255,0.08);
+    border-radius: 18px;
+    overflow: hidden;
+    transition: 0.4s ease;
+}
+
+.blog-entry:hover{
+    transform: translateY(-10px);
+    border-color: #ffbd39;
+}
+
+.blog-entry .text{
+    padding: 25px;
+}
+
+.blog-entry .heading a{
+    color: white;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.5;
+    transition: 0.3s ease;
+}
+
+.blog-entry .heading a:hover{
+    color: #ffbd39;
+    text-decoration: none;
+}
+
+.blog-entry p{
+    color: rgba(255,255,255,0.75);
+    line-height: 1.8;
+}
+
+.blog-entry .meta{
+    color: #ffbd39;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+}
+
+.block-20{
+    height: 260px;
+    background-size: cover;
+    background-position: center;
+}
