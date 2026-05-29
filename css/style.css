@@ -9812,3 +9812,12 @@ textarea.form-control {
       rgba(0,0,0,0.3)
   );
 }
+
+.ftco-hireme{
+    position: relative;
+}
+
+.ftco-hireme .btn{
+    position: relative;
+    z-index: 1000;
+}
