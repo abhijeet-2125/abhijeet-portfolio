@@ -1,2 +1,2 @@
-you can access my portfolio suing the given link:
+you can access my portfolio using the given link:
  https://abhijeet-2125.github.io/abhijeet-portfolio/
